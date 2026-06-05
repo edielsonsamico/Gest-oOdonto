@@ -1,0 +1,6 @@
+{
+  "name": "OdontoSaaS",
+  "description": "Sistema completo de Gestão para Clínicas Odontológicas e Consultórios, com agenda inteligente, prontuário digital, odontograma e fluxo de caixa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
